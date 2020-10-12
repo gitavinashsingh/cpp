@@ -1,11 +1,11 @@
 // Program to print positive number entered by the user
 // If the user enters a negative number, it is skipped
-
+//C++ Program tp check whether the number is +ve or -ve using if else
 #include <iostream>
 using namespace std;
 
 int main() {
-    int number;
+    int number;//variable number of type int
 
     cout << "Enter an integer: ";
     cin >> number;
